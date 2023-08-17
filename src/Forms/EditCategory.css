@@ -1,0 +1,52 @@
+/* EditCategory.css */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  form {
+    width: 100%;
+  }
+  
+  .form-col {
+    margin-bottom: 20px;
+  }
+  
+  .form-col label {
+    font-size: 18px;
+  }
+  
+  .form-col .MuiTextField-root {
+    width: 100%;
+  }
+  
+  .btn-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .green-btn {
+    background-color: #4caf50;
+    color: white;
+    margin-right: 10px;
+  }
+  
+  .pink-btn {
+    background-color: #e91e63;
+    color: white;
+  }
+  
